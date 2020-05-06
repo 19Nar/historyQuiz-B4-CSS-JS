@@ -37,5 +37,5 @@ function checkMyPoints(e) {
             correct++;
         }
     }
-    result.value = `You're score is ${correct}`
+    result.value = `Your score is ${correct}`
 };
